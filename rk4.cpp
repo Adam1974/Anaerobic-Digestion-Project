@@ -2,6 +2,7 @@
  * compiled with gcc 5.4:
  * g++-mp-5 -std=c++14 -o rk4 rk4.cc
  *
+ * Version 0.01
  */
 # include <iostream>
 # include <math.h>
