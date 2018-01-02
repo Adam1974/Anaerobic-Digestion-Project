@@ -25,14 +25,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Logger;
 
-import de.uni_erlangen.lstm.file.CSVReader;
-import de.uni_erlangen.lstm.file.CSVWriter;
-import de.uni_erlangen.lstm.modelaccess.DiscreteEvent;
-import de.uni_erlangen.lstm.modelaccess.Model;
-import de.uni_erlangen.lstm.models.adm1.BSM2Defaults;
-import de.uni_erlangen.lstm.models.adm1.DigesterParameters;
-import de.uni_erlangen.lstm.models.adm1.StateVariables;
-
 /**
  * Main class allows user access to the model through a command line interface
  * 
